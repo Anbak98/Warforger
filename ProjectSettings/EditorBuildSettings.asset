@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Warforger/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Widgets/Scenes/WidgetsQuickstart.unity
+    guid: dadb609b02349324bbdd744b763137c6
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 9e844b525ce1a4d4485caf8e121a16a2, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
